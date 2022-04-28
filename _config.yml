@@ -197,3 +197,6 @@ assets:
   sources:
     - node_modules/uswds/dist
     - node_modules/netlify-cms/dist
+
+include:
+  - .some-dot-file
